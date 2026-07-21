@@ -26,3 +26,10 @@
 🌱 Currently building my programming and development skills step by step.
 
 🎯 My goal is to become an AI/ML Engineer and Software Developer.
+## 🚀 Currently Learning
+
+- 🐍 Python
+- 🧠 Data Structures & Algorithms
+- 🌐 Web Development
+- 🤖 Generative AI
+- 🧬 Deep Learning
