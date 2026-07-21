@@ -67,6 +67,8 @@
 </p>
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryan28112010&show_icons=true&theme=tokyonight&hide_border=true" alt="Aryan's GitHub Stats" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=aryan28112010&show_icons=true&theme=tokyonight" />
+
+</div>
