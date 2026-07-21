@@ -13,3 +13,16 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aryan28112010&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+## 👨‍💻 About Me
+
+🎓 I'm Aryan Kumar, a 2nd Year B.Tech CSE (AI/ML) student at Shivalik University.
+
+🐍 Currently learning Python and Data Structures & Algorithms.
+
+🌐 Interested in Web Development.
+
+🤖 Exploring Generative AI and Deep Learning.
+
+🌱 Currently building my programming and development skills step by step.
+
+🎯 My goal is to become an AI/ML Engineer and Software Developer.
