@@ -33,3 +33,24 @@
 - 🌐 Web Development
 - 🤖 Generative AI
 - 🧬 Deep Learning
+## 🛠️ Skills & Technologies
+
+### 🐍 Programming Language
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+### 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### 🤖 AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+### 🧰 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
